@@ -1,6 +1,5 @@
 # Project Details Section
 
----
 
 ### Project Title
 
