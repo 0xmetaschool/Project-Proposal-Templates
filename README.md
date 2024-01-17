@@ -1,6 +1,6 @@
 # Road to Web3 - Project Proposal Templates
 
-This repository is home to the Road To Web3- Project Proposal Templates, meticulously designed to guide and structure your visionary project proposals in the Web3 landscape.
+This repository is home to the Road To Web3 - Project Proposal Templates, meticulously designed to guide and structure your visionary project proposals in the Web3 landscape.
 
 ## Inside the Repository
 
