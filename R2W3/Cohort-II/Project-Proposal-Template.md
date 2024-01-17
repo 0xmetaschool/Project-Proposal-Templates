@@ -127,8 +127,8 @@ Please ensure to clearly define the responsibilities and tasks of each team memb
 **Answer the following questions regarding the future prospects and scaling of your project.**
 
 1. What are the potential future features or enhancements you envision for your project?
-   - **_Sample_**: We plan to integrate a real-time news feed for cryptocurrencies.\*
+   - **_Sample_**: _We plan to integrate a real-time news feed for cryptocurrencies_.
 2. How do you plan to scale the project if there's an increase in user activity or data volume?
-   - **_Sample_**: We'll implement load balancing and optimize database queries.\*
+   - **_Sample_**: _We'll implement load balancing and optimize database queries_.
 3. Provide a concise one-line summary of your proposal and its objectives.
    - **_Sample_**: _Our project, CryptoTracker, aims to revolutionize cryptocurrency management with a decentralized platform for secure asset tracking and real-time market analysis._
