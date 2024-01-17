@@ -90,9 +90,11 @@ _[Add any additional touchpoints and interactions as relevant]_
 
 Outline the key milestones for your project and the associated timelines.
 
-1. **Project Kick-off (Days 1-2):** Team formation and project ideation.
-2. **Design Phase (Days 3-4):** Create wireframes and finalize design concepts.
-3. **Development Sprint (Days 5-6):** Implement core functionalities (e.g., user registration, portfolio management).
+**_Sample_:**
+
+1. **_Project Kick-off (Days 1-2)_:** _Team formation and project ideation_.
+2. **_Design Phase (Days 3-4)_:** _Create wireframes and finalize design concepts_.
+3. **_Development Sprint (Days 5-6)_:** _Implement core functionalities (e.g., user registration, portfolio management)_.
 
 ---
 
