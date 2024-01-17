@@ -15,7 +15,7 @@ This repository is home to the Road To Web3 - Project Proposal Templates, meticu
 
 ## Join Our Community
 
-- **Discord Community**: Connect, collaborate, and stay informed with our vibrant Discord community. It's the perfect place to discuss project ideas, seek advice, or share your Web3 journey with like-minded individuals. Join the [Road to Web3 Discord Community](https://discord.gg/6nVEv4vKJ8).
+- **Discord Community**: Connect, collaborate, and stay informed with our vibrant Discord community. It's the perfect place to discuss project ideas, seek advice, or share your Web3 journey with like-minded individuals. Join the [Metaschool Discord Community](https://discord.gg/6nVEv4vKJ8).
 
 ## Updates and Announcements
 
