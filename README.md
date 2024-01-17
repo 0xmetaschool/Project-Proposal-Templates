@@ -1,6 +1,6 @@
 # Road to Web3 - Project Proposal Templates
 
-Welcome to the Road to Web3 Cohort II repository, your centralized hub for shaping innovative projects in the realm of decentralized technology! This repository is home to the Road To Web3 Cohort II - Project Proposal Template, meticulously designed to guide and structure your visionary project proposals in the Web3 landscape.
+This repository is home to the Road To Web3- Project Proposal Templates, meticulously designed to guide and structure your visionary project proposals in the Web3 landscape.
 
 ## Inside the Repository
 
