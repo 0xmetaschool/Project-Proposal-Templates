@@ -103,6 +103,7 @@ Outline the key milestones for your project and the associated timelines.
 ### Teammates
 
 Please ensure to add the names of each member of your team along with their respective GitHub profiles to this list.
+
 **_Sample:_**
 
 - Alice Johnson ([GitHub Profile](https://github.com/alicejohnson))
