@@ -1,4 +1,3 @@
-# Proposal Structure
 
 ## **_A Note to Builders_**
 
@@ -15,6 +14,7 @@ _As you embark on your creative journey with your project, it's crucial to under
 
 _Please ensure your proposal strictly adheres to these guidelines to be considered for evaluation._
 
+---
 # Proposal Template
 
 ## **Project Details Section**
