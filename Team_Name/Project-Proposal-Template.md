@@ -1,16 +1,17 @@
 
 ## **_A Note to Builders_**
 
-_As you embark on your creative journey with your project, it's crucial to understand that adherence to the following guidelines is not just recommended but mandatory. Non-compliance with any of these guidelines will result in the outright rejection of your proposal. We outline these guidelines to foster a productive, ethical, and legally compliant environment for innovation. Please consider the following points carefully:_
+_As you start working on your project proposals, remember that following these guidelines is mandatory, not optional. Ignoring them means your proposal will be automatically rejected. These rules are here to make sure our work is innovative, ethical, and legal. Please pay close attention to each point:_
 
-1. **Originality is Key**: Your project must be an original work, crafted from inception by your team. Utilize the knowledge from relevant courses to innovate. Any project found to lack originality will be rejected.
-2. **Follow Submission Guidelines**: Adherence to the provided format and submission guidelines is mandatory. Proposals deviating from the set guidelines will not be entertained.
-3. **Honesty is Non-Negotiable**: You are expected to provide truthful information and present work that is genuinely yours. Any form of dishonesty or misrepresentation will lead to proposal rejection.
-4. **Zero Tolerance for Plagiarism**: Ensure that your work is original. Properly attribute any external sources or inspirations. Proposals with plagiarized content will face immediate rejection.
-5. **Clear Objectives**: Clearly defined goals and outcomes are essential. Ambiguous or vague proposals lack direction and will not be considered.
-6. **Feasibility and Realism**: Proposals must have a realistic scope and a feasible execution plan. Projects that overlook practical implementation aspects will be rejected.
-7. **Uphold Ethical Standards**: Your project should respect privacy, data protection, and promote positive ethical standards. Proposals suggesting unethical practices will be dismissed.
-8. **Legal Compliance**: Your project must comply with all relevant legal regulations, copyright laws, and respect intellectual property rights. Non-compliant proposals will be rejected.
+1. **Originality**: Our project must be entirely our own creation, showcasing our unique ideas and insights.
+2. **Follow the Rules**: Stick to the given submission format and guidelines strictly. Any deviation will lead to rejection.
+3. **Be Honest**: Present only authentic work and provide accurate information. Dishonesty will result in immediate disqualification.
+4. **No Plagiarism**: Our content must be original. Credit all external sources or inspirations properly.
+5. **Clear Goals**: Define the project objectives and outcomes clearly. Vague proposals won't be considered.
+6. **Practicality**: Ensure the project is realistic and can be practically implemented. Impractical ideas won't make it through.
+7. **Ethics First**: The project must adhere to ethical standards, respecting privacy and data protection.
+8. **Legal Compliance**: Abide by all relevant laws, copyright rules, and intellectual property rights. Non-compliance is not an option.
+
 
 _Please ensure your proposal strictly adheres to these guidelines to be considered for evaluation._
 
