@@ -1,6 +1,9 @@
 # Project Structure (Metaschool Road To Web3 Cohort - II)
 
-This repository outlines the recommended structure for organizing your project in the context of Metaschool's Road To Web3 Cohort - II. Proper organization enhances code maintainability and collaboration.
+This repository provides a structured framework for organizing your project as part of Metaschool's Road To Web3 Cohort - II, aiming to enhance code maintainability and collaboration
+
+**Framework Integration**: If you're using development frameworks (like Hardhat), they may automatically generate certain directories and code structures. You are free to work within the framework's structure if it aligns well with your project needs.
+
 
 **Note**: Most directories contain a `.placeholder` file to ensure the directory structure is maintained as Git does not track empty directories. Feel free to ignore or delete this file as you add content to the directories.
 
@@ -26,3 +29,7 @@ This repository outlines the recommended structure for organizing your project i
    - Configuration files and `.env.example`.
 7. **Project Management (`/project`)** (Optional based on project scope):
    - `roadmap.md`: Project roadmap.
+
+Feel free to use this structure as a starting point and modify it as needed, especially if your development framework prescribes a different structure. The key is to ensure that your project is well-organized, making it easier for your team and potential contributors to understand and collaborate effectively.
+
+Happy coding!
