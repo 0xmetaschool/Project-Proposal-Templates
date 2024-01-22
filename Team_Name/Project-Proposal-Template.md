@@ -20,49 +20,48 @@ _Please ensure your proposal strictly adheres to these guidelines to be consider
 
 ## **Project Details Section**
 
-### **Project Title**
-
-Provide the title of your project.
-
-**Sample:** CryptoTracker
+### **FluidPass**
 
 ### **What are you planning to build?**
 
-Provide a brief overview of your project here.
 
-**Sample:** We're building CryptoTracker, a decentralized platform to track and manage cryptocurrency portfolios.
+We envision building a robust and user-friendly event payment system that utilizes the Superfluid protocol to revolutionize how participants are compensated for their time and engagement. 
 
 ### **Project Breakdown**
 
-Provide a comprehensive explanation of your project. This should include a detailed description of what your project is all about, its main objectives, and its intended impact or benefits. Also, describe how your project works. This can include an overview of the processes or mechanisms involved, the technologies or methods used, and how these contribute to achieving the project's goals.
+FluidPass is an innovative event payment system that leverages the Superfluid protocol to enable real-time streaming of money based on the time users spend enjoying or attending an event. This project aims to provide a seamless and transparent way to compensate event participants or attendees, ensuring a fair and dynamic payment model.
 
-**Sample**:
 
-**Why Choose CryptoTracker?**
-CryptoTracker is for crypto enthusiasts seeking a streamlined way to manage their digital wealth. It’s designed to demystify the complex world of cryptocurrencies, making tracking and growing your investments straightforward and secure.
+**Why Choose FluidPass?**
+
+**Fair Compensation:** FluidPass ensures that participants are compensated fairly based on their level of engagement. This encourages active participation and rewards those who contribute more to the event's success.
+
+**Real-time Transactions:** The use of the Superfluid protocol enables instant and real-time streaming of money. Participants receive compensation as they actively participate, creating a more responsive and engaging payment experience.
+
+**Transparency and Security:** FluidPass leverages the transparency of blockchain technology to provide a clear and auditable record of all payment transactions. This not only instills trust among participants but also enhances the overall security of the payment system.
+
+**Adaptability to Various Events:** Whether it's a concert, conference, live stream, or any other event, FluidPass's flexible design allows it to be seamlessly integrated, providing a universal solution for dynamic event compensation.
 
 **Problem Statement**
-Navigating the vast, intricate world of cryptocurrency can be daunting. Investors need a centralized platform that simplifies asset management, provides live market updates, and offers clear insights into their cryptocurrency holdings.
 
-**How CryptoTracker Works**
+Traditional event payment models often rely on fixed fees or ticket prices, which may not accurately reflect the value participants derive from an event. Additionally, delayed payment processing and lack of transparency can lead to dissatisfaction among participants and event organizers. FluidPass addresses these challenges by introducing a dynamic payment model that aligns compensation with the actual time spent engaged in the event.
 
-- **Easy Interface**: Navigate and manage your assets with ease, thanks to a user-friendly interface.
-- **Manage Your Coins**: Effortlessly add, monitor, and organize your cryptocurrencies in one unified space.
-- **Real-Time Market Info**: Stay ahead with immediate access to the latest market trends and price movements, presented in a clear, digestible format.
-- **Portfolio Analysis**: Gain a comprehensive view of your investment's performance over time. Utilize straightforward visuals to make informed, strategic decisions.
-- **Deep Dive into Investments**: Examine the performance of individual cryptocurrencies, benchmark against the market, and assess your portfolio's health to refine your investment approach.
+**How FluidPass Works**
+
+**Real-time Payments:** FluidPass allows for instant payments as users engage with an event. Payments are streamed in real-time, providing a fluid and efficient compensation mechanism.
+
+**Transparency:** The use of the Superfluid protocol ensures transparency in payment transactions. All transactions can be easily tracked and verified on the blockchain.
+
+**Flexibility:** FluidPass is designed to be flexible and can be integrated into various types of events, including concerts, conferences, live streams, and more.
 
 ### **Technology Stack**
 
-Please enumerate the technologies, tools, and frameworks that you're planning to utilize in the development and implementation of your project. This should include both the front-end and back-end technologies, databases, cloud services, libraries, and other relevant software components.
-
-**Sample:**
-
 - Solidity
-- React.js
+- Next.js
 - EtherJs Library
 - Node.js
-- Ethereum Blockchain
+- Polygon Blockchain
+- Superfluid SDK
 
 ### **Milestone Breakdown**
 
